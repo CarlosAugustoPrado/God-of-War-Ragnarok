@@ -10,5 +10,10 @@
 - GULP
 - SASS
 </h3>
+<br/>
+<br/>
+
+<h3>Link para a aplicação: https://god-of-war-ragnarok-bice.vercel.app</h3>
 
 <img src="/godofwar.png">
+
